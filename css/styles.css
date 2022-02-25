@@ -13,7 +13,6 @@ li, a {
   font-size: 16px;
   color: white;
   text-decoration: none;
-  background-color: rgb(2, 78, 114);
 }
 
 header {
@@ -120,7 +119,7 @@ h3, h1 {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .about h2 {
@@ -155,3 +154,33 @@ hr{
   border: 10px solid rgb(2, 78, 114);
   border-radius: 50%;
 }
+
+/* About:Backgrouund Section */
+.background-layout {
+  margin-top: 100px;
+  background-color: rgb(2, 78, 114);
+}
+
+.about-background-images{
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  
+}
+
+.col-md-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.light-blue {
+  color: #8EC5FC;
+}
+
