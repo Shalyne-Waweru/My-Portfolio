@@ -159,6 +159,7 @@ hr{
 .background-layout {
   margin-top: 100px;
   background-color: rgb(2, 78, 114);
+
 }
 
 .about-background-images{
@@ -173,18 +174,22 @@ hr{
 .container{
   margin: 0px 20%;
 }
+
 .col-md-3 {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
   border: 1px solid white;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 30px;
   margin-left: 20px;
 }
 
 .light-blue {
   color: #8EC5FC;
+}
+
+.row-2-layout {
+  margin-left: 250px;
 }
 
