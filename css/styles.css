@@ -190,6 +190,27 @@ hr{
 }
 
 .row-2-layout {
-  margin-left: 250px;
+  margin-left: 150px;
 }
 
+.project-btn {
+  border: none;
+  color: white;
+  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  padding: 15px 32px;
+  width: 200px;
+  margin-left: 40%;
+  margin-top: 10%;
+  cursor: pointer;
+  border-radius: 8px;
+  position: absolute;
+  background-color: black;
+  transition: all 0.3s ease 0s;
+}
+
+.project-btn:hover {
+  background-color: #E0C3FC;
+  color: black;
+}
