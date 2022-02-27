@@ -167,8 +167,7 @@ hr{
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
-  
+  width: 25%; 
 }
 
 .container{
@@ -213,4 +212,39 @@ hr{
 .project-btn:hover {
   background-color: #E0C3FC;
   color: black;
+}
+
+/* My Projects Section */
+h2 {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  font-size: 45px;
+  margin: 5%;
+  text-align: center;
+  line-height: 1.6;
+  color: white;
+}
+
+.blue {
+  color: rgb(2, 78, 114);
+  font-weight: 550;
+}
+
+.projects-layout {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10%;
+  height: 400px;
+  background-color: rgba(2, 79, 114, 0.424);
+}
+
+.project-images {
+  display: block;
+  margin-right: 200px;
+  width: 500px;
+  height: 300px;
+  opacity: 0.7;
+  border-radius: 20px;
 }
