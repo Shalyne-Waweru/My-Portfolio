@@ -73,7 +73,7 @@ h3, h1 {
   content: "";
   position: absolute;
   top: 80;
-  background: url('/images/photo.jpg') no-repeat center center/cover;
+  background: url('https://github.com/Shalyne-Waweru/My-Portfolio/blob/master/images/photo.jpg') no-repeat center center/cover;
   height: 920px;
   width: 100%;
   z-index: -1;
