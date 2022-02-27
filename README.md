@@ -16,9 +16,9 @@ To start using this project use the following commands:
 - `cd My-Portfolio`
 
 ## Known Bugs
-Images don't display while using github pages
-Navigation from one page to the other is not seamless using github pages
-However, everything works well using the browser after cloning the project
+- Images don't display while using github pages
+- Navigation from one page to the other is not seamless using github pages
+- However, everything works well using the browser after cloning the project
 
 ## License info
 MIT License
