@@ -238,10 +238,10 @@ h2 {
   align-items: center;
   margin-top: 10%;
   height: 400px;
-  background-color: rgba(2, 79, 114, 0.424);
+  border: 1px solid white;
 }
 
-.project-images {
+.project-image-1 {
   display: block;
   margin-right: 200px;
   width: 500px;
@@ -251,7 +251,7 @@ h2 {
 }
 
 .project-info {
-  margin: 150px;
+  margin: 180px;
 }
 
 .project-info h3 {
@@ -264,7 +264,7 @@ h2 {
 .project-info h5 {
   font-family: 'PT Sans', sans-serif;
   font-weight: 400;
-  color: white;
+  color: rgb(255, 255, 255);
   line-height: 1.6;
   text-decoration: none;
 }
@@ -277,5 +277,24 @@ h2 {
 }
 
 .project-info a:hover {
-  color: rgb(229, 189, 241);
+  color: black;
+}
+
+.project-layout-2 {
+  margin-top: 1px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  align-items: center;
+  height: 400px;
+  background-image: linear-gradient(to top, #a7a6cb 0%, #8989ba 52%, #8989ba 100%);
+}
+
+.project-image-2 {
+  display: block;
+  margin-left: 180px;
+  width: 500px;
+  height: 300px;
+  opacity: 0.7;
+  border-radius: 20px;
 }
