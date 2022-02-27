@@ -1,9 +1,5 @@
 # Portfolio Landing Page
 
-## Table of Contents
-+[Author](#author)
-+[Project Description](#project description)
-
 ## Author
 - [Shalyne Waweru](https://github.com/Shalyne-Waweru/My-Portfolio.git)
 
@@ -22,7 +18,7 @@ To start using this project use the following commands:
 ## License info
 MIT License
 
-Copyright (c) [2022] [Shalyne Waweru]
+Copyright (c) 2022 Shalyne Waweru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
